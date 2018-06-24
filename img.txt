@@ -1,0 +1,23 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <title>Food image gallery.</title>
+        <meta charset="UTF-8">
+        <link rel="stylesheet" type="text/css" href="style.css">
+    </head>
+    <body>
+        <header class="header">
+            <h1>My Image Gallery</h1>
+        </header>
+             <img src="pexels-photo-958545.jpeg" title="Food 1" alt="Food 1">
+             <img src="pexels-photo-70497.jpeg" title="Food 2" alt="Food 2"> 
+             <img src="pexels-photo-461198.jpeg" title="Food 3" alt="Food 3"> 
+             <img src="pexels-photo-376464.jpeg" alt="Food 4" title="Food 4"> 
+             <img src="cook-food-kitchen-eat-54455.jpeg" title="Food 5" alt="Food 5">
+             <img src="pexels-photo-849835.jpeg" title="Food 6" alt="Food 6">
+             <img src="pexels-photo-14107.jpeg" alt="Food 7" title="Food 7"> 
+             <img src="pexels-photo-85766.jpeg" title="Food 8" alt="Food 8"> 
+            <img src="pexels-photo-132694.jpeg" title="Food 9" alt="Food 9">
+            <div class="clearfix"></div> 
+    </body>
+</html>
